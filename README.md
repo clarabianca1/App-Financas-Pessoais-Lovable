@@ -94,4 +94,5 @@ O aplicativo criado foi o FinFlux:
 <img width="1906" height="746" alt="image" src="https://github.com/user-attachments/assets/cf866db9-ff36-412d-abf4-1467ba4190b6" />
 <img width="1904" height="725" alt="image" src="https://github.com/user-attachments/assets/bc8623cd-e042-4655-96af-70b257bbab0f" />
 
-
+# Link do Projeto
+https://finflux-finance-chat.lovable.app
