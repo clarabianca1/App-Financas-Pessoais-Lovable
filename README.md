@@ -86,3 +86,5 @@ Medir satisfação com a experiência conversacional.
 
 # Interação no Lovable
 Foi incluído no Lovable o prompt com PRD do aplicativo. 
+O aplicativo criado foi o FinFlux: 
+<img width="1907" height="753" alt="image" src="https://github.com/user-attachments/assets/6b5b5896-567a-4a84-94b0-c18ce9bd3118" />
