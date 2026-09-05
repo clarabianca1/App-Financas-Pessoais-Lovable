@@ -83,3 +83,6 @@ Testar com grupo piloto de usuários iniciantes.
 Avaliar engajamento com a tela de evolução e desbloqueios.
 
 Medir satisfação com a experiência conversacional.
+
+# Interação no Lovable
+Foi incluído no Lovable o prompt com PRD do aplicativo. 
