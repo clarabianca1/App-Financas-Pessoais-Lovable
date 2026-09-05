@@ -1,4 +1,4 @@
-# App-Financas-Pessoais-Lovable
+# App de Finanças Pessoas da Clara Bianca com Vibe Coding
 Passo para a criação de um app de finanças pessoais no Lovable. 
 
 # Passo 1
