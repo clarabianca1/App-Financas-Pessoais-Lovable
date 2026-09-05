@@ -1,6 +1,7 @@
 # App-Financas-Pessoais-Lovable
 Passo para a criação de um app de finanças pessoais no Lovable. 
 
+# Passo 1
 O primeiro passo é detalhar o PRD para que o aplicativo fique da forma que foi pensada. 
 PRD inicial: 
 Contexto
@@ -25,7 +26,60 @@ Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
 
-Prompt utilizado para melhorar o PRD: 
+# Prompt utilizado para melhorar o PRD: 
 Melhore esse PRD (Product Requirements Document) para criar um aplicativo no lovable. 
 Quero que tenha no PRD (Product Requirements Document) uma tela com evolução da pessoa que for usar o aplicativo, com desbloqueios sempre que ela atingir 20% da meta. 
 
+# PRD melhorado:
+Contexto
+O aplicativo será um Organizador de Finanças Pessoais que funciona por meio de conversas naturais com o usuário.
+A proposta é eliminar a complexidade de formulários e planilhas, oferecendo uma experiência fluida e personalizada.
+
+Problema
+A maioria dos aplicativos de finanças exige entradas manuais extensas e pouco se adapta ao perfil do usuário.
+Isso gera frustração e abandono do uso.
+Nosso objetivo é criar uma solução conversacional, prática e motivadora, que incentive o usuário a continuar.
+
+Público-Alvo
+Pessoas iniciantes no controle financeiro.
+
+Usuários que buscam praticidade e simplicidade.
+
+Pessoas que desejam motivação contínua para atingir metas financeiras.
+
+Funcionalidades-Chave
+Registro via chat: Inserir gastos e receitas em linguagem natural.
+
+Classificação automática: Categorizar transações sem esforço manual.
+
+Metas financeiras: Definir objetivos e acompanhar progresso.
+
+Agente Financeiro: Recomendações personalizadas de economia.
+
+Relatórios simples: Visualizações claras e acessíveis.
+
+Tela de evolução: Exibir progresso do usuário com desbloqueios a cada 20% da meta atingida (gamificação).
+
+Principais Telas do MVP
+Tela de Conversa: Interface principal para registrar gastos e interagir com o Agente Financeiro.
+
+Tela de Metas: Definição e acompanhamento de objetivos financeiros.
+
+Tela de Evolução: Mostra progresso em formato visual (barra ou círculo de progresso).
+
+A cada 20% da meta atingida, o usuário desbloqueia conquistas (ex.: medalhas, dicas exclusivas, mensagens motivacionais).
+
+Tela de Relatórios: Gráficos simples e personalizados para análise rápida.
+
+Entregável da IA
+Plano de MVP com telas descritas acima.
+
+Recursos necessários para implementação inicial.
+
+Esboço de validação:
+
+Testar com grupo piloto de usuários iniciantes.
+
+Avaliar engajamento com a tela de evolução e desbloqueios.
+
+Medir satisfação com a experiência conversacional.
